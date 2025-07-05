@@ -1,6 +1,6 @@
 ##  Prosperity 3 Algorithmic Trading Challenge
 
-> *Ranked in the top \~10% globally (1271 out of 12,000+ teams) and 223rd in India*
+> ***Ranked in the top \~10% globally (1271 out of 12,000+ teams) and 223rd in India***
 
 ### About the Competition
 
